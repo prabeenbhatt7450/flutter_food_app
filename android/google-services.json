@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269679258895",
+    "project_id": "bhojanalaya-food-order",
+    "storage_bucket": "bhojanalaya-food-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269679258895:android:4b0c3f26c1647d3e5b227a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269679258895-5uklinela0ra1eb6t0tf27kgoecbc3n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82D6XR0rTfxV9s7u4Jy8cUoPTrvkPQvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269679258895-5uklinela0ra1eb6t0tf27kgoecbc3n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
